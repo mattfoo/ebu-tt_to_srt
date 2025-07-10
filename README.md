@@ -2,7 +2,7 @@
 
 # EBU-TT Subtitles:
 
-For full specs see: <http://bbc.github.io/subtitle-guidelines/>
+For full specs see: <https://www.bbc.co.uk/accessibility/forproducts/guides/subtitles/>
 
 ```
 	<!--Profile: EBU-TT-D-Basic-DE--><tt:tt xmlns:tt="http://www.w3.org/ns/ttml"
